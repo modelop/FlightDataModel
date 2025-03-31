@@ -1,0 +1,76 @@
+{
+  "type": "record", 
+  "name": "inferred_schema", 
+  "fields": [
+    {
+      "type": "int", 
+      "name": "FL_DATE"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "int", 
+      "name": "DEP_DELAY"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "int", 
+      "name": "ARR_DELAY"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "int", 
+      "name": "AIR_TIME"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "int", 
+      "name": "DISTANCE"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "double", 
+      "name": "DEP_TIME"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+    {
+      "type": "double", 
+      "name": "ARR_TIME"
+      "dataClass": "categorical",
+      "role": "predictor",
+      "protectedClass": false,
+      "driftCandidate": true,
+      "specialValues": [],
+      "scoringOptional": false
+    }, 
+  ]
+}
