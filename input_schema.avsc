@@ -26,7 +26,7 @@
       "type": "int", 
       "name": "ARR_DELAY",
       "dataClass": "categorical",
-      "role": "predictor",
+      "role": "score",
       "protectedClass": false,
       "driftCandidate": true,
       "specialValues": [],
