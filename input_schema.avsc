@@ -4,7 +4,7 @@
   "fields": [
     {
       "type": "int", 
-      "name": "FL_DATE"
+      "name": "FL_DATE",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -14,7 +14,7 @@
     }, 
     {
       "type": "int", 
-      "name": "DEP_DELAY"
+      "name": "DEP_DELAY",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -24,7 +24,7 @@
     }, 
     {
       "type": "int", 
-      "name": "ARR_DELAY"
+      "name": "ARR_DELAY",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -34,7 +34,7 @@
     }, 
     {
       "type": "int", 
-      "name": "AIR_TIME"
+      "name": "AIR_TIME",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -44,7 +44,7 @@
     }, 
     {
       "type": "int", 
-      "name": "DISTANCE"
+      "name": "DISTANCE",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -54,7 +54,7 @@
     }, 
     {
       "type": "double", 
-      "name": "DEP_TIME"
+      "name": "DEP_TIME",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
@@ -64,7 +64,7 @@
     }, 
     {
       "type": "double", 
-      "name": "ARR_TIME"
+      "name": "ARR_TIME",
       "dataClass": "categorical",
       "role": "predictor",
       "protectedClass": false,
